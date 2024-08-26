@@ -5,5 +5,5 @@
 ### Installer
 You can install this CLI with an homemade installer [here](www.linkto.installer) which sets everything up ready to use.
 
-### winget
-Use `winget --install`
+### Windows (winget)
+Use `winget --install https://github.com/javaPaulVI/Json-Editor.git`
